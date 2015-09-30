@@ -1,36 +1,442 @@
-{"music" : [ 
-	{ "title" : "Sankya Intro",
-	  "album" : "Sankya",
-	  "artist" : "Manoj Saleem",
-	  "genre" : "Sankya",
-	  "source" : "01Sankya-Intro-1.mp3",
-	  "image" : "album_art.jpg",
-	  "trackNumber" : 1,
-	  "totalTrackCount" : 6,
-	  "duration" : 103,
-	  "site" : "http://www.shastranethralaya.org/mp3/Sankya"
-	},
-       { "title" : "Sankya-1-2",
-	  "album" : "Sankya",
-	  "artist" : "Manoj",
-	  "genre" : "Sankya",
-	  "source" : "02Sankya-1-2.mp3",
-	  "image" : "album_art_3.jpg",
-	  "trackNumber" : 2,
-	  "totalTrackCount" : 2,
-	  "duration" : 160,
-	  "site" : "http://www.shastranethralaya.org/mp3/Sankya"
-	},
-        { "title" : "Yoga Intro",
-          "album" : "Yoga Album",
-          "artist" : "Manoj Saleem",
-          "genre" : "Yoga",
-          "source" : "01AYogaSamadi-Intro-1.mp3",
-          "image" : "album_art.jpg",
-          "trackNumber" : 1,
-          "totalTrackCount" : 6,
-          "duration" : 103,
-          "site" : "http://www.shastranethralaya.org/mp3/Yoga"
-        }
-
-]}
+{"music":[{"source":"par039.mp3","duration":600,"image":"album_art.jpg
+","genre":"Paribhasa","album":"Paribhasa","artist":"Manoj Saleem","site":"http:/
+/shastranethralaya.org/mp3/paribhasha","totalTrackCount":39,"title":"par039","tr
+ackNumber":39},{"source":"par039.mp3","duration":600,"image":"album_art.jpg","ge
+nre":"Paribhasa","album":"Paribhasa","artist":"Manoj Saleem","site":"http://shas
+tranethralaya.org/mp3/paribhasha","totalTrackCount":39,"title":"par039","trackNu
+mber":39},{"source":"par039.mp3","duration":600,"image":"album_art.jpg","genre":
+"Paribhasa","album":"Paribhasa","artist":"Manoj Saleem","site":"http://shastrane
+thralaya.org/mp3/paribhasha","totalTrackCount":39,"title":"par039","trackNumber"
+:39},{"source":"par039.mp3","duration":600,"image":"album_art.jpg","genre":"Pari
+bhasa","album":"Paribhasa","artist":"Manoj Saleem","site":"http://shastranethral
+aya.org/mp3/paribhasha","totalTrackCount":39,"title":"par039","trackNumber":39},
+{"source":"par039.mp3","duration":600,"image":"album_art.jpg","genre":"Paribhasa
+","album":"Paribhasa","artist":"Manoj Saleem","site":"http://shastranethralaya.o
+rg/mp3/paribhasha","totalTrackCount":39,"title":"par039","trackNumber":39},{"sou
+rce":"par039.mp3","duration":600,"image":"album_art.jpg","genre":"Paribhasa","al
+bum":"Paribhasa","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp
+3/paribhasha","totalTrackCount":39,"title":"par039","trackNumber":39},{"source":
+"par039.mp3","duration":600,"image":"album_art.jpg","genre":"Paribhasa","album":
+"Paribhasa","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/par
+ibhasha","totalTrackCount":39,"title":"par039","trackNumber":39},{"source":"par039.mp3","duration":600,"image":"album_art.jpg","genre":"Paribhasa","album":"Pari
+bhasa","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/paribhas
+ha","totalTrackCount":39,"title":"par039","trackNumber":39},{"source":"par039.mp
+3","duration":600,"image":"album_art.jpg","genre":"Paribhasa","album":"Paribhasa
+","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/paribhasha","
+totalTrackCount":39,"title":"par039","trackNumber":39},{"source":"par039.mp3","d
+uration":600,"image":"album_art.jpg","genre":"Paribhasa","album":"Paribhasa","ar
+tist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/paribhasha","total
+TrackCount":39,"title":"par039","trackNumber":39},{"source":"par039.mp3","durati
+on":600,"image":"album_art.jpg","genre":"Paribhasa","album":"Paribhasa","artist"
+:"Manoj Saleem","site":"http://shastranethralaya.org/mp3/paribhasha","totalTrack
+Count":39,"title":"par039","trackNumber":39},{"source":"par039.mp3","duration":6
+00,"image":"album_art.jpg","genre":"Paribhasa","album":"Paribhasa","artist":"Man
+oj Saleem","site":"http://shastranethralaya.org/mp3/paribhasha","totalTrackCount
+":39,"title":"par039","trackNumber":39},{"source":"par039.mp3","duration":600,"i
+mage":"album_art.jpg","genre":"Paribhasa","album":"Paribhasa","artist":"Manoj Sa
+leem","site":"http://shastranethralaya.org/mp3/paribhasha","totalTrackCount":39,
+"title":"par039","trackNumber":39},{"source":"par039.mp3","duration":600,"image"
+:"album_art.jpg","genre":"Paribhasa","album":"Paribhasa","artist":"Manoj Saleem"
+,"site":"http://shastranethralaya.org/mp3/paribhasha","totalTrackCount":39,"titl
+e":"par039","trackNumber":39},{"source":"par039.mp3","duration":600,"image":"alb
+um_art.jpg","genre":"Paribhasa","album":"Paribhasa","artist":"Manoj Saleem","sit
+e":"http://shastranethralaya.org/mp3/paribhasha","totalTrackCount":39,"title":"p
+ar039","trackNumber":39},{"source":"par039.mp3","duration":600,"image":"album_ar
+t.jpg","genre":"Paribhasa","album":"Paribhasa","artist":"Manoj Saleem","site":"h
+ttp://shastranethralaya.org/mp3/paribhasha","totalTrackCount":39,"title":"par039
+","trackNumber":39},{"source":"par039.mp3","duration":600,"image":"album_art.jpg
+","genre":"Paribhasa","album":"Paribhasa","artist":"Manoj Saleem","site":"http:/
+/shastranethralaya.org/mp3/paribhasha","totalTrackCount":39,"title":"par039","tr
+ackNumber":39},{"source":"par039.mp3","duration":600,"image":"album_art.jpg","ge
+nre":"Paribhasa","album":"Paribhasa","artist":"Manoj Saleem","site":"http://shas
+tranethralaya.org/mp3/paribhasha","totalTrackCount":39,"title":"par039","trackNu
+mber":39},{"source":"par039.mp3","duration":600,"image":"album_art.jpg","genre":
+"Paribhasa","album":"Paribhasa","artist":"Manoj Saleem","site":"http://shastrane
+thralaya.org/mp3/paribhasha","totalTrackCount":39,"title":"par039","trackNumber"
+:39},{"source":"par039.mp3","duration":600,"image":"album_art.jpg","genre":"Pari
+bhasa","album":"Paribhasa","artist":"Manoj Saleem","site":"http://shastranethral
+aya.org/mp3/paribhasha","totalTrackCount":39,"title":"par039","trackNumber":39},{"source":"par039.mp3","duration":600,"image":"album_art.jpg","genre":"Paribhasa
+","album":"Paribhasa","artist":"Manoj Saleem","site":"http://shastranethralaya.o
+rg/mp3/paribhasha","totalTrackCount":39,"title":"par039","trackNumber":39},{"sou
+rce":"par039.mp3","duration":600,"image":"album_art.jpg","genre":"Paribhasa","al
+bum":"Paribhasa","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp
+3/paribhasha","totalTrackCount":39,"title":"par039","trackNumber":39},{"source":
+"par039.mp3","duration":600,"image":"album_art.jpg","genre":"Paribhasa","album":
+"Paribhasa","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/par
+ibhasha","totalTrackCount":39,"title":"par039","trackNumber":39},{"source":"par0
+39.mp3","duration":600,"image":"album_art.jpg","genre":"Paribhasa","album":"Pari
+bhasa","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/paribhas
+ha","totalTrackCount":39,"title":"par039","trackNumber":39},{"source":"par039.mp
+3","duration":600,"image":"album_art.jpg","genre":"Paribhasa","album":"Paribhasa
+","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/paribhasha","
+totalTrackCount":39,"title":"par039","trackNumber":39},{"source":"par039.mp3","d
+uration":600,"image":"album_art.jpg","genre":"Paribhasa","album":"Paribhasa","ar
+tist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/paribhasha","total
+TrackCount":39,"title":"par039","trackNumber":39},{"source":"par039.mp3","durati
+on":600,"image":"album_art.jpg","genre":"Paribhasa","album":"Paribhasa","artist"
+:"Manoj Saleem","site":"http://shastranethralaya.org/mp3/paribhasha","totalTrack
+Count":39,"title":"par039","trackNumber":39},{"source":"par039.mp3","duration":6
+00,"image":"album_art.jpg","genre":"Paribhasa","album":"Paribhasa","artist":"Man
+oj Saleem","site":"http://shastranethralaya.org/mp3/paribhasha","totalTrackCount
+":39,"title":"par039","trackNumber":39},{"source":"par039.mp3","duration":600,"i
+mage":"album_art.jpg","genre":"Paribhasa","album":"Paribhasa","artist":"Manoj Sa
+leem","site":"http://shastranethralaya.org/mp3/paribhasha","totalTrackCount":39,
+"title":"par039","trackNumber":39},{"source":"par039.mp3","duration":600,"image"
+:"album_art.jpg","genre":"Paribhasa","album":"Paribhasa","artist":"Manoj Saleem"
+,"site":"http://shastranethralaya.org/mp3/paribhasha","totalTrackCount":39,"titl
+e":"par039","trackNumber":39},{"source":"par039.mp3","duration":600,"image":"alb
+um_art.jpg","genre":"Paribhasa","album":"Paribhasa","artist":"Manoj Saleem","sit
+e":"http://shastranethralaya.org/mp3/paribhasha","totalTrackCount":39,"title":"p
+ar039","trackNumber":39},{"source":"par039.mp3","duration":600,"image":"album_ar
+t.jpg","genre":"Paribhasa","album":"Paribhasa","artist":"Manoj Saleem","site":"h
+ttp://shastranethralaya.org/mp3/paribhasha","totalTrackCount":39,"title":"par039
+","trackNumber":39},{"source":"par039.mp3","duration":600,"image":"album_art.jpg
+","genre":"Paribhasa","album":"Paribhasa","artist":"Manoj Saleem","site":"http:/
+/shastranethralaya.org/mp3/paribhasha","totalTrackCount":39,"title":"par039","trackNumber":39},{"source":"par039.mp3","duration":600,"image":"album_art.jpg","ge
+nre":"Paribhasa","album":"Paribhasa","artist":"Manoj Saleem","site":"http://shas
+tranethralaya.org/mp3/paribhasha","totalTrackCount":39,"title":"par039","trackNu
+mber":39},{"source":"par039.mp3","duration":600,"image":"album_art.jpg","genre":
+"Paribhasa","album":"Paribhasa","artist":"Manoj Saleem","site":"http://shastrane
+thralaya.org/mp3/paribhasha","totalTrackCount":39,"title":"par039","trackNumber"
+:39},{"source":"par039.mp3","duration":600,"image":"album_art.jpg","genre":"Pari
+bhasa","album":"Paribhasa","artist":"Manoj Saleem","site":"http://shastranethral
+aya.org/mp3/paribhasha","totalTrackCount":39,"title":"par039","trackNumber":39},
+{"source":"par039.mp3","duration":600,"image":"album_art.jpg","genre":"Paribhasa
+","album":"Paribhasa","artist":"Manoj Saleem","site":"http://shastranethralaya.o
+rg/mp3/paribhasha","totalTrackCount":39,"title":"par039","trackNumber":39},{"sou
+rce":"par039.mp3","duration":600,"image":"album_art.jpg","genre":"Paribhasa","al
+bum":"Paribhasa","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp
+3/paribhasha","totalTrackCount":39,"title":"par039","trackNumber":39},{"source":
+"par039.mp3","duration":600,"image":"album_art.jpg","genre":"Paribhasa","album":
+"Paribhasa","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/par
+ibhasha","totalTrackCount":39,"title":"par039","trackNumber":39},{"source":"Yagy
+opavitaDharana.mp3","duration":600,"image":"album_art.jpg","genre":"SandyaMantra
+","album":"SandyaMantra","artist":"Manoj Saleem","site":"http://shastranethralay
+a.org/mp3/SandyaMantra","totalTrackCount":34,"title":"yagyopavitadharana","track
+Number":34},{"source":"YagyopavitaDharana.mp3","duration":600,"image":"album_art
+.jpg","genre":"SandyaMantra","album":"SandyaMantra","artist":"Manoj Saleem","sit
+e":"http://shastranethralaya.org/mp3/SandyaMantra","totalTrackCount":34,"title":
+"yagyopavitadharana","trackNumber":34},{"source":"YagyopavitaDharana.mp3","durat
+ion":600,"image":"album_art.jpg","genre":"SandyaMantra","album":"SandyaMantra","
+artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/SandyaMantra","t
+otalTrackCount":34,"title":"yagyopavitadharana","trackNumber":34},{"source":"Yag
+yopavitaDharana.mp3","duration":600,"image":"album_art.jpg","genre":"SandyaMantr
+a","album":"SandyaMantra","artist":"Manoj Saleem","site":"http://shastranethrala
+ya.org/mp3/SandyaMantra","totalTrackCount":34,"title":"yagyopavitadharana","trac
+kNumber":34},{"source":"YagyopavitaDharana.mp3","duration":600,"image":"album_ar
+t.jpg","genre":"SandyaMantra","album":"SandyaMantra","artist":"Manoj Saleem","si
+te":"http://shastranethralaya.org/mp3/SandyaMantra","totalTrackCount":34,"title"
+:"yagyopavitadharana","trackNumber":34},{"source":"YagyopavitaDharana.mp3","dura
+tion":600,"image":"album_art.jpg","genre":"SandyaMantra","album":"SandyaMantra",
+"artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/SandyaMantra","
+totalTrackCount":34,"title":"yagyopavitadharana","trackNumber":34},{"source":"YagyopavitaDharana.mp3","duration":600,"image":"album_art.jpg","genre":"SandyaMant
+ra","album":"SandyaMantra","artist":"Manoj Saleem","site":"http://shastranethral
+aya.org/mp3/SandyaMantra","totalTrackCount":34,"title":"yagyopavitadharana","tra
+ckNumber":34},{"source":"YagyopavitaDharana.mp3","duration":600,"image":"album_a
+rt.jpg","genre":"SandyaMantra","album":"SandyaMantra","artist":"Manoj Saleem","s
+ite":"http://shastranethralaya.org/mp3/SandyaMantra","totalTrackCount":34,"title
+":"yagyopavitadharana","trackNumber":34},{"source":"YagyopavitaDharana.mp3","dur
+ation":600,"image":"album_art.jpg","genre":"SandyaMantra","album":"SandyaMantra"
+,"artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/SandyaMantra",
+"totalTrackCount":34,"title":"yagyopavitadharana","trackNumber":34},{"source":"Y
+agyopavitaDharana.mp3","duration":600,"image":"album_art.jpg","genre":"SandyaMan
+tra","album":"SandyaMantra","artist":"Manoj Saleem","site":"http://shastranethra
+laya.org/mp3/SandyaMantra","totalTrackCount":34,"title":"yagyopavitadharana","tr
+ackNumber":34},{"source":"YagyopavitaDharana.mp3","duration":600,"image":"album_
+art.jpg","genre":"SandyaMantra","album":"SandyaMantra","artist":"Manoj Saleem","
+site":"http://shastranethralaya.org/mp3/SandyaMantra","totalTrackCount":34,"titl
+e":"yagyopavitadharana","trackNumber":34},{"source":"YagyopavitaDharana.mp3","du
+ration":600,"image":"album_art.jpg","genre":"SandyaMantra","album":"SandyaMantra
+","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/SandyaMantra"
+,"totalTrackCount":34,"title":"yagyopavitadharana","trackNumber":34},{"source":"
+YagyopavitaDharana.mp3","duration":600,"image":"album_art.jpg","genre":"SandyaMa
+ntra","album":"SandyaMantra","artist":"Manoj Saleem","site":"http://shastranethr
+alaya.org/mp3/SandyaMantra","totalTrackCount":34,"title":"yagyopavitadharana","t
+rackNumber":34},{"source":"YagyopavitaDharana.mp3","duration":600,"image":"album
+_art.jpg","genre":"SandyaMantra","album":"SandyaMantra","artist":"Manoj Saleem",
+"site":"http://shastranethralaya.org/mp3/SandyaMantra","totalTrackCount":34,"tit
+le":"yagyopavitadharana","trackNumber":34},{"source":"YagyopavitaDharana.mp3","d
+uration":600,"image":"album_art.jpg","genre":"SandyaMantra","album":"SandyaMantr
+a","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/SandyaMantra
+","totalTrackCount":34,"title":"yagyopavitadharana","trackNumber":34},{"source":
+"YagyopavitaDharana.mp3","duration":600,"image":"album_art.jpg","genre":"SandyaM
+antra","album":"SandyaMantra","artist":"Manoj Saleem","site":"http://shastraneth
+ralaya.org/mp3/SandyaMantra","totalTrackCount":34,"title":"yagyopavitadharana","
+trackNumber":34},{"source":"YagyopavitaDharana.mp3","duration":600,"image":"albu
+m_art.jpg","genre":"SandyaMantra","album":"SandyaMantra","artist":"Manoj Saleem"
+,"site":"http://shastranethralaya.org/mp3/SandyaMantra","totalTrackCount":34,"ti
+tle":"yagyopavitadharana","trackNumber":34},{"source":"YagyopavitaDharana.mp3","
+duration":600,"image":"album_art.jpg","genre":"SandyaMantra","album":"SandyaMantra","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/SandyaMantr
+a","totalTrackCount":34,"title":"yagyopavitadharana","trackNumber":34},{"source"
+:"YagyopavitaDharana.mp3","duration":600,"image":"album_art.jpg","genre":"Sandya
+Mantra","album":"SandyaMantra","artist":"Manoj Saleem","site":"http://shastranet
+hralaya.org/mp3/SandyaMantra","totalTrackCount":34,"title":"yagyopavitadharana",
+"trackNumber":34},{"source":"YagyopavitaDharana.mp3","duration":600,"image":"alb
+um_art.jpg","genre":"SandyaMantra","album":"SandyaMantra","artist":"Manoj Saleem
+","site":"http://shastranethralaya.org/mp3/SandyaMantra","totalTrackCount":34,"t
+itle":"yagyopavitadharana","trackNumber":34},{"source":"YagyopavitaDharana.mp3",
+"duration":600,"image":"album_art.jpg","genre":"SandyaMantra","album":"SandyaMan
+tra","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/SandyaMant
+ra","totalTrackCount":34,"title":"yagyopavitadharana","trackNumber":34},{"source
+":"YagyopavitaDharana.mp3","duration":600,"image":"album_art.jpg","genre":"Sandy
+aMantra","album":"SandyaMantra","artist":"Manoj Saleem","site":"http://shastrane
+thralaya.org/mp3/SandyaMantra","totalTrackCount":34,"title":"yagyopavitadharana"
+,"trackNumber":34},{"source":"YagyopavitaDharana.mp3","duration":600,"image":"al
+bum_art.jpg","genre":"SandyaMantra","album":"SandyaMantra","artist":"Manoj Salee
+m","site":"http://shastranethralaya.org/mp3/SandyaMantra","totalTrackCount":34,"
+title":"yagyopavitadharana","trackNumber":34},{"source":"YagyopavitaDharana.mp3"
+,"duration":600,"image":"album_art.jpg","genre":"SandyaMantra","album":"SandyaMa
+ntra","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/SandyaMan
+tra","totalTrackCount":34,"title":"yagyopavitadharana","trackNumber":34},{"sourc
+e":"YagyopavitaDharana.mp3","duration":600,"image":"album_art.jpg","genre":"Sand
+yaMantra","album":"SandyaMantra","artist":"Manoj Saleem","site":"http://shastran
+ethralaya.org/mp3/SandyaMantra","totalTrackCount":34,"title":"yagyopavitadharana
+","trackNumber":34},{"source":"YagyopavitaDharana.mp3","duration":600,"image":"a
+lbum_art.jpg","genre":"SandyaMantra","album":"SandyaMantra","artist":"Manoj Sale
+em","site":"http://shastranethralaya.org/mp3/SandyaMantra","totalTrackCount":34,
+"title":"yagyopavitadharana","trackNumber":34},{"source":"YagyopavitaDharana.mp3
+","duration":600,"image":"album_art.jpg","genre":"SandyaMantra","album":"SandyaM
+antra","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/SandyaMa
+ntra","totalTrackCount":34,"title":"yagyopavitadharana","trackNumber":34},{"sour
+ce":"YagyopavitaDharana.mp3","duration":600,"image":"album_art.jpg","genre":"San
+dyaMantra","album":"SandyaMantra","artist":"Manoj Saleem","site":"http://shastra
+nethralaya.org/mp3/SandyaMantra","totalTrackCount":34,"title":"yagyopavitadharan
+a","trackNumber":34},{"source":"YagyopavitaDharana.mp3","duration":600,"image":"
+album_art.jpg","genre":"SandyaMantra","album":"SandyaMantra","artist":"Manoj Sal
+eem","site":"http://shastranethralaya.org/mp3/SandyaMantra","totalTrackCount":34,"title":"yagyopavitadharana","trackNumber":34},{"source":"YagyopavitaDharana.mp
+3","duration":600,"image":"album_art.jpg","genre":"SandyaMantra","album":"Sandya
+Mantra","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/SandyaM
+antra","totalTrackCount":34,"title":"yagyopavitadharana","trackNumber":34},{"sou
+rce":"YagyopavitaDharana.mp3","duration":600,"image":"album_art.jpg","genre":"Sa
+ndyaMantra","album":"SandyaMantra","artist":"Manoj Saleem","site":"http://shastr
+anethralaya.org/mp3/SandyaMantra","totalTrackCount":34,"title":"yagyopavitadhara
+na","trackNumber":34},{"source":"YagyopavitaDharana.mp3","duration":600,"image":
+"album_art.jpg","genre":"SandyaMantra","album":"SandyaMantra","artist":"Manoj Sa
+leem","site":"http://shastranethralaya.org/mp3/SandyaMantra","totalTrackCount":3
+4,"title":"yagyopavitadharana","trackNumber":34},{"source":"YagyopavitaDharana.m
+p3","duration":600,"image":"album_art.jpg","genre":"SandyaMantra","album":"Sandy
+aMantra","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/Sandya
+Mantra","totalTrackCount":34,"title":"yagyopavitadharana","trackNumber":34},{"so
+urce":"YagyopavitaDharana.mp3","duration":600,"image":"album_art.jpg","genre":"S
+andyaMantra","album":"SandyaMantra","artist":"Manoj Saleem","site":"http://shast
+ranethralaya.org/mp3/SandyaMantra","totalTrackCount":34,"title":"yagyopavitadhar
+ana","trackNumber":34},{"source":"20Sankya-64-72.mp3","duration":600,"image":"al
+bum_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Saleem","site":"h
+ttp://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"title":"20sankya-6
+4-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration":600,"image":"a
+lbum_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Saleem","site":"
+http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"title":"20sankya-
+64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration":600,"image":"
+album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Saleem","site":
+"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"title":"20sankya
+-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration":600,"image":
+"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Saleem","site"
+:"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"title":"20sanky
+a-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration":600,"image"
+:"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Saleem","site
+":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"title":"20sank
+ya-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration":600,"image
+":"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Saleem","sit
+e":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"title":"20san
+kya-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration":600,"imag
+e":"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Saleem","si
+te":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"title":"20sankya-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration":600,"ima
+ge":"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Saleem","s
+ite":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"title":"20s
+ankya-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration":600,"im
+age":"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Saleem","
+site":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"title":"20
+sankya-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration":600,"i
+mage":"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Saleem",
+"site":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"title":"2
+0sankya-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration":600,"
+image":"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Saleem"
+,"site":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"title":"
+20sankya-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration":600,
+"image":"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Saleem
+","site":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"title":
+"20sankya-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration":600
+,"image":"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Salee
+m","site":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"title"
+:"20sankya-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration":60
+0,"image":"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Sale
+em","site":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"title
+":"20sankya-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration":6
+00,"image":"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Sal
+eem","site":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"titl
+e":"20sankya-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration":
+600,"image":"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Sa
+leem","site":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"tit
+le":"20sankya-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration"
+:600,"image":"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj S
+aleem","site":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"ti
+tle":"20sankya-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duration
+":600,"image":"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj
+Saleem","site":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"t
+itle":"20sankya-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","duratio
+n":600,"image":"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj
+ Saleem","site":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,"
+title":"20sankya-64-72","trackNumber":20},{"source":"20Sankya-64-72.mp3","durati
+on":600,"image":"album_art.jpg","genre":"Sankya","album":"Sankya","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/Sankya","totalTrackCount":20,
+"title":"20sankya-64-72","trackNumber":20},{"source":"10upadesasaram.mp3","durat
+ion":600,"image":"album_art.jpg","genre":"Updadesaram","album":"Updadesaram","ar
+tist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/upadesasaram","tot
+alTrackCount":10,"title":"10upadesasaram","trackNumber":10},{"source":"10upadesa
+saram.mp3","duration":600,"image":"album_art.jpg","genre":"Updadesaram","album":
+"Updadesaram","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/u
+padesasaram","totalTrackCount":10,"title":"10upadesasaram","trackNumber":10},{"s
+ource":"10upadesasaram.mp3","duration":600,"image":"album_art.jpg","genre":"Upda
+desaram","album":"Updadesaram","artist":"Manoj Saleem","site":"http://shastranet
+hralaya.org/mp3/upadesasaram","totalTrackCount":10,"title":"10upadesasaram","tra
+ckNumber":10},{"source":"10upadesasaram.mp3","duration":600,"image":"album_art.j
+pg","genre":"Updadesaram","album":"Updadesaram","artist":"Manoj Saleem","site":"
+http://shastranethralaya.org/mp3/upadesasaram","totalTrackCount":10,"title":"10u
+padesasaram","trackNumber":10},{"source":"10upadesasaram.mp3","duration":600,"im
+age":"album_art.jpg","genre":"Updadesaram","album":"Updadesaram","artist":"Manoj
+ Saleem","site":"http://shastranethralaya.org/mp3/upadesasaram","totalTrackCount
+":10,"title":"10upadesasaram","trackNumber":10},{"source":"10upadesasaram.mp3","
+duration":600,"image":"album_art.jpg","genre":"Updadesaram","album":"Updadesaram
+","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/upadesasaram"
+,"totalTrackCount":10,"title":"10upadesasaram","trackNumber":10},{"source":"10up
+adesasaram.mp3","duration":600,"image":"album_art.jpg","genre":"Updadesaram","al
+bum":"Updadesaram","artist":"Manoj Saleem","site":"http://shastranethralaya.org/
+mp3/upadesasaram","totalTrackCount":10,"title":"10upadesasaram","trackNumber":10
+},{"source":"10upadesasaram.mp3","duration":600,"image":"album_art.jpg","genre":
+"Updadesaram","album":"Updadesaram","artist":"Manoj Saleem","site":"http://shast
+ranethralaya.org/mp3/upadesasaram","totalTrackCount":10,"title":"10upadesasaram"
+,"trackNumber":10},{"source":"10upadesasaram.mp3","duration":600,"image":"album_
+art.jpg","genre":"Updadesaram","album":"Updadesaram","artist":"Manoj Saleem","si
+te":"http://shastranethralaya.org/mp3/upadesasaram","totalTrackCount":10,"title"
+:"10upadesasaram","trackNumber":10},{"source":"10upadesasaram.mp3","duration":60
+0,"image":"album_art.jpg","genre":"Updadesaram","album":"Updadesaram","artist":"
+Manoj Saleem","site":"http://shastranethralaya.org/mp3/upadesasaram","totalTrack
+Count":10,"title":"10upadesasaram","trackNumber":10},{"source":"42YogaKaivalya-2
+6-34.mp3","duration":600,"image":"album_art.jpg","genre":"Yoga","album":"Yoga","
+artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/Yoga","totalTrac
+kCount":43,"title":"42yogakaivalya-26-34","trackNumber":43},{"source":"42YogaKai
+valya-26-34.mp3","duration":600,"image":"album_art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/Yoga","to
+talTrackCount":43,"title":"42yogakaivalya-26-34","trackNumber":43},{"source":"42
+YogaKaivalya-26-34.mp3","duration":600,"image":"album_art.jpg","genre":"Yoga","a
+lbum":"Yoga","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/Yo
+ga","totalTrackCount":43,"title":"42yogakaivalya-26-34","trackNumber":43},{"sour
+ce":"42YogaKaivalya-26-34.mp3","duration":600,"image":"album_art.jpg","genre":"Y
+oga","album":"Yoga","artist":"Manoj Saleem","site":"http://shastranethralaya.org
+/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-34","trackNumber":43}
+,{"source":"42YogaKaivalya-26-34.mp3","duration":600,"image":"album_art.jpg","ge
+nre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"http://shastranethral
+aya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-34","trackNumb
+er":43},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"image":"album_art.j
+pg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"http://shastra
+nethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-34","tr
+ackNumber":43},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"image":"albu
+m_art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"http://
+shastranethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-
+34","trackNumber":43},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"image
+":"album_art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"
+http://shastranethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaiva
+lya-26-34","trackNumber":43},{"source":"42YogaKaivalya-26-34.mp3","duration":600
+,"image":"album_art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","
+site":"http://shastranethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yo
+gakaivalya-26-34","trackNumber":43},{"source":"42YogaKaivalya-26-34.mp3","durati
+on":600,"image":"album_art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Sa
+leem","site":"http://shastranethralaya.org/mp3/Yoga","totalTrackCount":43,"title
+":"42yogakaivalya-26-34","trackNumber":43},{"source":"42YogaKaivalya-26-34.mp3",
+"duration":600,"image":"album_art.jpg","genre":"Yoga","album":"Yoga","artist":"M
+anoj Saleem","site":"http://shastranethralaya.org/mp3/Yoga","totalTrackCount":43
+,"title":"42yogakaivalya-26-34","trackNumber":43},{"source":"42YogaKaivalya-26-3
+4.mp3","duration":600,"image":"album_art.jpg","genre":"Yoga","album":"Yoga","art
+ist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/Yoga","totalTrackCo
+unt":43,"title":"42yogakaivalya-26-34","trackNumber":43},{"source":"42YogaKaival
+ya-26-34.mp3","duration":600,"image":"album_art.jpg","genre":"Yoga","album":"Yog
+a","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/Yoga","total
+TrackCount":43,"title":"42yogakaivalya-26-34","trackNumber":43},{"source":"42Yog
+aKaivalya-26-34.mp3","duration":600,"image":"album_art.jpg","genre":"Yoga","albu
+m":"Yoga","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-34","trackNumber":43},{"source"
+:"42YogaKaivalya-26-34.mp3","duration":600,"image":"album_art.jpg","genre":"Yoga
+","album":"Yoga","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp
+3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-34","trackNumber":43},{"
+source":"42YogaKaivalya-26-34.mp3","duration":600,"image":"album_art.jpg","genre
+":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"http://shastranethralaya
+.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-34","trackNumber"
+:43},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"image":"album_art.jpg"
+,"genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"http://shastranet
+hralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-34","track
+Number":43},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"image":"album_a
+rt.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"http://sha
+stranethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-34"
+,"trackNumber":43},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"image":"
+album_art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"htt
+p://shastranethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya
+-26-34","trackNumber":43},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"i
+mage":"album_art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","sit
+e":"http://shastranethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogak
+aivalya-26-34","trackNumber":43},{"source":"42YogaKaivalya-26-34.mp3","duration"
+:600,"image":"album_art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Salee
+m","site":"http://shastranethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"
+42yogakaivalya-26-34","trackNumber":43},{"source":"42YogaKaivalya-26-34.mp3","du
+ration":600,"image":"album_art.jpg","genre":"Yoga","album":"Yoga","artist":"Mano
+j Saleem","site":"http://shastranethralaya.org/mp3/Yoga","totalTrackCount":43,"t
+itle":"42yogakaivalya-26-34","trackNumber":43},{"source":"42YogaKaivalya-26-34.m
+p3","duration":600,"image":"album_art.jpg","genre":"Yoga","album":"Yoga","artist
+":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/Yoga","totalTrackCount
+":43,"title":"42yogakaivalya-26-34","trackNumber":43},{"source":"42YogaKaivalya-
+26-34.mp3","duration":600,"image":"album_art.jpg","genre":"Yoga","album":"Yoga",
+"artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/Yoga","totalTra
+ckCount":43,"title":"42yogakaivalya-26-34","trackNumber":43},{"source":"42YogaKa
+ivalya-26-34.mp3","duration":600,"image":"album_art.jpg","genre":"Yoga","album":
+"Yoga","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/Yoga","t
+otalTrackCount":43,"title":"42yogakaivalya-26-34","trackNumber":43},{"source":"4
+2YogaKaivalya-26-34.mp3","duration":600,"image":"album_art.jpg","genre":"Yoga","
+album":"Yoga","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/Y
+oga","totalTrackCount":43,"title":"42yogakaivalya-26-34","trackNumber":43},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"image":"album_art.jpg","genre":"
+Yoga","album":"Yoga","artist":"Manoj Saleem","site":"http://shastranethralaya.or
+g/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-34","trackNumber":43
+},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"image":"album_art.jpg","g
+enre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"http://shastranethra
+laya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-34","trackNum
+ber":43},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"image":"album_art.
+jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"http://shastr
+anethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-34","t
+rackNumber":43},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"image":"alb
+um_art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"http:/
+/shastranethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26
+-34","trackNumber":43},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"imag
+e":"album_art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":
+"http://shastranethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaiv
+alya-26-34","trackNumber":43},{"source":"42YogaKaivalya-26-34.mp3","duration":60
+0,"image":"album_art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem",
+"site":"http://shastranethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42y
+ogakaivalya-26-34","trackNumber":43},{"source":"42YogaKaivalya-26-34.mp3","durat
+ion":600,"image":"album_art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj S
+aleem","site":"http://shastranethralaya.org/mp3/Yoga","totalTrackCount":43,"titl
+e":"42yogakaivalya-26-34","trackNumber":43},{"source":"42YogaKaivalya-26-34.mp3"
+,"duration":600,"image":"album_art.jpg","genre":"Yoga","album":"Yoga","artist":"
+Manoj Saleem","site":"http://shastranethralaya.org/mp3/Yoga","totalTrackCount":4
+3,"title":"42yogakaivalya-26-34","trackNumber":43},{"source":"42YogaKaivalya-26-
+34.mp3","duration":600,"image":"album_art.jpg","genre":"Yoga","album":"Yoga","ar
+tist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/Yoga","totalTrackC
+ount":43,"title":"42yogakaivalya-26-34","trackNumber":43},{"source":"42YogaKaiva
+lya-26-34.mp3","duration":600,"image":"album_art.jpg","genre":"Yoga","album":"Yo
+ga","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/Yoga","tota
+lTrackCount":43,"title":"42yogakaivalya-26-34","trackNumber":43},{"source":"42Yo
+gaKaivalya-26-34.mp3","duration":600,"image":"album_art.jpg","genre":"Yoga","alb
+um":"Yoga","artist":"Manoj Saleem","site":"http://shastranethralaya.org/mp3/Yoga
+","totalTrackCount":43,"title":"42yogakaivalya-26-34","trackNumber":43},{"source
+":"42YogaKaivalya-26-34.mp3","duration":600,"image":"album_art.jpg","genre":"Yog
+a","album":"Yoga","artist":"Manoj Saleem","site":"http://shastranethralaya.org/m
+p3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-34","trackNumber":43},{
+"source":"42YogaKaivalya-26-34.mp3","duration":600,"image":"album_art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"http://shastranethralay
+a.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-34","trackNumber
+":43},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"image":"album_art.jpg
+","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"http://shastrane
+thralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-34","trac
+kNumber":43},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"image":"album_
+art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"http://sh
+astranethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivalya-26-34
+","trackNumber":43},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"image":
+"album_art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","site":"ht
+tp://shastranethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yogakaivaly
+a-26-34","trackNumber":43},{"source":"42YogaKaivalya-26-34.mp3","duration":600,"
+image":"album_art.jpg","genre":"Yoga","album":"Yoga","artist":"Manoj Saleem","si
+te":"http://shastranethralaya.org/mp3/Yoga","totalTrackCount":43,"title":"42yoga
+kaivalya-26-34","trackNumber":43}]}
